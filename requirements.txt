@@ -1,0 +1,7 @@
+streamlit
+matplotlib
+mysql-connector-python
+joblib
+huggingface_hub
+pandas
+scikit-learn
